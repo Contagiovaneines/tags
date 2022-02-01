@@ -1,0 +1,36 @@
+<html>
+	<head><title>Implementação</title></head>
+<body>
+	<h2><b>Implementação</b></h2>
+<hr>
+	<div align=right>
+Star Wars é a obra-prima cinematográfica do diretor e roteirista George Lucas,<br>
+definida por ele como uma Space Opera, espécie de ficção científica que destaca os romances,<br>
+as paisagens excêntricas e os seres fictícios heróicos. Composta de seis partes, divididas em duas trilogias,<br>
+esta criação desencadeou uma onda de merchandising nunca antes presenciada no universo cinematográfico, que inclui jogos eletrônicos,<br>
+animações, diversas conversões para a esfera literária, sem falar nos demais produtos comercializados em todo o mundo.<br>
+	</div>	
+<hr>
+</font>
+<font size=7 color=#000000>S</font>
+<font size=6 color=#800000>A</font>
+<font size=5 color=#008000>B</font>
+<font size=4 color=#808000>R</font>
+<font size=3 color=#008080>E</font><p>
+<font size=2 color=#00FF00>D</font>
+<font size=7 color=#00FFFF>E</font><p>
+<font size=6 color=#0FFF55>L</font>
+<font size=5 color=#FF00FF>U</font>
+<font size=4 color=#FF0000>Z</font>
+<hr width=50% align=center>
+Muitos querem saber quem é dono da internet ou quem administra os milhares de computadores e linhas que fazem funcionar.
+Vamos voltar um pouco no tempo.<big>Nos anos 60</big>, quando a guerra fria pairava no ar, grandes computadores espalhados pelos <b><big>Estado Unidos</big></b> armazenavam informações militares estratégica em funçãos do perigo de um ataque nuclear soviético.<br>
+Surgiu assim a ideia de  interconectar os vários centros de computação de modo que sistema continuasse funcionando, mesmo que um desses centros fosse destruído, O Departamento de Defesa, através do <b><small>ARPA (Advanced Research Projects Agency)</small></b>, mandou pesquisar qual seria a forma mais segura de interconectar  esses computadores.<br>
+<font size=4 face="times" color=#ff00ff >Chegou-se um esquema chamado chaveamento de pacotes</font><br>.Com base nisso, em 1970 foi criada a semente do que viria a ser a internet. <i>A guerra fria</i> acabou mas a herança daqueles dias rendeu bastante.<br>
+<hr>
+		<center><textarea name="S1" rows="5" cols="35">
+
+Muitos querem saber quem é dono da internet ou quem administra os milhares de computadores e linhas que fazem funcionar.Vamos voltar um pouco no tempo.Nos anos 60, quando a guerra fria pairava no ar, grandes computadores espalhados pelos Estado Unidos armazenavam informações militares estratégica em funçãos do perigo de um ataque nuclear soviético.Surgiu assim a ideia de  interconectar os vários centros de computação de modo que sistema continuasse funcionando, mesmo que um desses centros fosse destruído, O Departamento de Defesa, através do ARPA (Advanced Research Projects Agency), mandou pesquisar qual seria a forma mais segura de interconectar  esses computadores.Chegou-se um esquema chamado chaveamento de pacotes.Com base nisso, em 1970 foi criada a semente do que viria a ser a internet. A guerra fria acabou mas a herança daqueles dias rendeu bastante.
+		</textarea></center>
+</body>
+</html>
